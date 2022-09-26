@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.navbar-brand {
+    font-family: "Avenir Black", "Avenir Black Oblique", "Avenir Book", "Avenir Book Oblique", "Avenir Heavy", "Avenir Heavy Oblique", "Avenir Light", "Avenir Light Oblique", "Avenir Medium", "Avenir Medium Oblique";
+    font-size: 32pt;
+    font-style: normal;
+	color: aliceblue;
+    background-color: #274C6D;
+	text-align: center;
+}
+* {font-family: "Avenir Book", "Avenir Black", "Avenir Black Oblique", "Avenir Book Oblique", "Avenir Heavy", "Avenir Heavy Oblique", "Avenir Light", "Avenir Light Oblique", "Avenir Medium", "Avenir Medium Oblique";
+	font-kerning: normal;
+	font-style: normal
+
+}
